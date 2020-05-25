@@ -1,0 +1,8 @@
+.git/
+/target/
+.settings/
+.idea/
+*.iml
+/logs/
+/bin/
+/logs/
